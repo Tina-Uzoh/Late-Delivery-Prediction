@@ -1,0 +1,7 @@
+# 1. Install dependencies
+pip install streamlit pandas numpy matplotlib seaborn plotly scikit-learn xgboost imbalanced-learn shap
+
+# 2. Run the app
+
+
+python -m streamlit run app.py
